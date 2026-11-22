@@ -65,7 +65,6 @@ This was fun, i had to update the schematic alot though. I found a few mistakes 
 
 # 2026-11-13
 
----
 
 # What I did:
 1. I worked on the routing on the pcb!
@@ -84,3 +83,31 @@ Picture of PCB in EDA
 # personal note:
 
 the new software is kinda hard to use, im using easyeda pro, where i used standard vers before!
+
+---
+
+# 2026-11-22
+
+# What I did:
+
+1. Fully finished PCB!
+2. Finished datasheet for it!
+3. Finished (fake) Promo picture for it!
+
+# Pictures:
+
+picture of finished pcb
+
+<img width="1081" height="837" alt="image" src="https://github.com/user-attachments/assets/7a845546-3766-41a4-a4d5-cb9b29f2e10f" />
+
+Picture of finished "Datasheet"
+
+<img width="1414" height="2000" alt="Orion_s4_datasheet" src="https://github.com/user-attachments/assets/e7669a77-fdff-469a-ad3c-b74fde6aeb1c" />
+
+Picture of fake Promo picture
+
+<img width="2000" height="2000" alt="Orion promo" src="https://github.com/user-attachments/assets/46cf9830-6345-42a1-a28c-effd2784f5f6" />
+
+
+
+
